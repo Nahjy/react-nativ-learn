@@ -1,5 +1,5 @@
 # react-nativ-learn
-# tuto for commit
+# tuto for commit : link : https://www.youtube.com/watch?v=ZMgLZUYd8Cw
 
 "git status" permet de montrer les nouvelles choses qui n'ont pas été commités.<p>
 "touch" permet de créer un document ou un fichier.<p>
